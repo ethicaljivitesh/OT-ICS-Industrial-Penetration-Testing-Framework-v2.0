@@ -189,8 +189,8 @@ ot_framework.py  (~3,200 lines · Single file · Zero external ICS libs required
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/youruser/ot-pen-framework.git
-cd ot-pen-framework
+git clone https://github.com/ethicaljivitesh/OT-ICS-Industrial-Penetration-Testing-Framework-v2.0.git
+cd OT-ICS-Industrial-Penetration-Testing-Framework-v2.0
 ```
 
 ### Step 2 — Install Python Dependencies
